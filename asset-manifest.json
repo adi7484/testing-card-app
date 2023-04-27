@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testing-card-app/static/css/main.71ab95bc.css",
+    "main.js": "/testing-card-app/static/js/main.6998edf0.js",
+    "index.html": "/testing-card-app/index.html",
+    "main.71ab95bc.css.map": "/testing-card-app/static/css/main.71ab95bc.css.map",
+    "main.6998edf0.js.map": "/testing-card-app/static/js/main.6998edf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71ab95bc.css",
+    "static/js/main.6998edf0.js"
+  ]
+}
