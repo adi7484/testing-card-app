@@ -39,7 +39,7 @@ class App extends Component {
           <div className="box">
             <div className="row">
             <div className="column1">
-            <h2>Card Layout</h2>
+            <h2>Tap on Get users to get data</h2>
             </div>
             <div className="column2">
             <button onClick={this.updateState}>Get Users</button>
